@@ -1,5 +1,1 @@
-local config = {
-	["MinLemFlag"] = 50000,
-	["MinRebirthFlag"] = 200,
-	["MinProfileCreateTime"] = 36000
-}
+{"MinProfileCreateTime":36000,"MinLemFlag":50000,"MinRebirthFlag":200}
